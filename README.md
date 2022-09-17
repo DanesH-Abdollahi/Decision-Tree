@@ -53,7 +53,7 @@ Implementation of decision tree using **id3** algorithm in **Matlab** from scrat
       </a>
     </td>
     <td align="center">
-      <a href="https://https://github.com/o-OHamiD">
+      <a href="https://github.com/o-OHamiD">
         <img src="https://avatars.githubusercontent.com/u/87880922?v=4" width="100px;" alt="Hamidreza Safari Kakroud"/><br>
         <sub>
           <b>Hamidreza Safari Kakroud</b>
