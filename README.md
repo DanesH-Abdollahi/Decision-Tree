@@ -39,6 +39,28 @@ Implementation of decision tree using **id3** algorithm in **Matlab** from scrat
     ![Result](/Part_4/Q2_Part_C.png)
 
     All results are given in directory `Part_4`.
+&nbsp;
+
+## Contributers
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DanesH-Abdollahi">
+        <img src="https://avatars.githubusercontent.com/u/100038277?v=4" width="100px;" alt="DanesH Abdollahi"/><br>
+        <sub>
+          <b>DanesH Abdollahi</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://https://github.com/o-OHamiD">
+        <img src="https://avatars.githubusercontent.com/u/87880922?v=4" width="100px;" alt="Hamidreza Safari Kakroud"/><br>
+        <sub>
+          <b>Hamidreza Safari Kakroud</b>
+        </sub>
+      </a>
+    </td>
+</table>
 
 
 
